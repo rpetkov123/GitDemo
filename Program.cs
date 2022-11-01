@@ -1,10 +1,13 @@
 public class Program {
+    a = new List<>();
 
-    if () {
+    if ()
+    {
 
     }
 
-    if () {
+    if ()
+    {
         
     }
 
@@ -12,17 +15,22 @@ public class Program {
         
     }
 
-    if () {
+    if ()
+    {
         
     }
-    if () {
+
+    if ()
+    {
         
     }
 
     if () {
         
     }
-    if () {
+    
+    if ()
+    {
         
     }
 }

@@ -25,11 +25,11 @@ public class Program {
         
     }
 
-    if () {
+    if (2 + 2 == 4) {
         
     }
     
-    if ()
+    if (3 + 1 == 123123)
     {
         
     }
